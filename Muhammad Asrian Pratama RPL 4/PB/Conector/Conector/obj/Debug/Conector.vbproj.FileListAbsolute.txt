@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Conector\Conector\bin\Debug\Conector.exe.config
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Conector\Conector\obj\Debug\Conector.Form1.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Conector\Conector\obj\Debug\Conector.Resources.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Conector\Conector\obj\Debug\Conector.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Conector\Conector\obj\Debug\Conector.vbprojResolveAssemblyReference.cache

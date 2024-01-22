@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\APLIKASI PEMECAH MASALAH\bin\Debug\APLIKASI PEMECAH MASALAH.exe.config
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\APLIKASI PEMECAH MASALAH\bin\Debug\APLIKASI PEMECAH MASALAH.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\APLIKASI PEMECAH MASALAH\bin\Debug\APLIKASI PEMECAH MASALAH.pdb
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\APLIKASI PEMECAH MASALAH\bin\Debug\APLIKASI PEMECAH MASALAH.xml
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\APLIKASI PEMECAH MASALAH\obj\Debug\APLIKASI_PEMECAH_MASALAH.Form1.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\APLIKASI PEMECAH MASALAH\obj\Debug\APLIKASI_PEMECAH_MASALAH.Resources.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\APLIKASI PEMECAH MASALAH\obj\Debug\APLIKASI PEMECAH MASALAH.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\APLIKASI PEMECAH MASALAH\obj\Debug\APLIKASI PEMECAH MASALAH.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\APLIKASI PEMECAH MASALAH\obj\Debug\APLIKASI PEMECAH MASALAH.xml
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\APLIKASI PEMECAH MASALAH\obj\Debug\APLIKASI PEMECAH MASALAH.pdb
