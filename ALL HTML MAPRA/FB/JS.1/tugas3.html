@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkulator Luas dan Keliling</title>
+</head>
+<body>
+    <h1>Kalkulator Luas dan Keliling</h1>
+    <form id="kalkulator-form">
+        <label for="aksi">Jenis Tindakan:</label>
+        <select id="aksi" name="aksi">
+            <option value="luas">Luas</option>
+            <option value="keliling">Keliling</option>
+        </select>
+
+        <label for="panjang">Panjang:</label>
+        <input type="number" id="panjang" name="panjang" required>
+
+        <label for="lebar">Lebar:</label>
+        <input type="number" id="lebar" name="lebar" required>
+
+        <button type="submit">Hitung</button>
+    </form>
+
+    <div id="hasil"></div>
+
+    <script>
+        document.getElementById("kalkulator-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+
+            var aksi = document.getElementById("aksi").value;
+            var panjang = parseFloat(document.getElementById("panjang").value);
+            var lebar = parseFloat(document.getElementById("lebar").value);
+
+            var hasil;
+            if (aksi === "luas") {
+                hasil = panjang * lebar;
+            } else if (aksi === "keliling") {
+                hasil = 2 * (panjang + lebar);
+            }
+
+            document.getElementById("hasil").innerHTML = "Hasil " + aksi + ": " + hasil;
+        });
+    </script>
+</body>
+</html>

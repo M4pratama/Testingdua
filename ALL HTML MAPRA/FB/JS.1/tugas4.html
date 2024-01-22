@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Membuat Tabel</title>
+</head>
+<body>
+    <h1>Tabel Hasil</h1>
+    <div id="tabel-container"></div>
+
+    <script>
+        function buatTabel(baris, kolom) {
+            var tabelHTML = "<table border='1'>";
+            
+            for (var i = 0; i < baris; i++) {
+                tabelHTML += "<tr>";
+                for (var j = 0; j < kolom; j++) {
+                    tabelHTML += "<td> " + (i + 1) + ",  " + (j + 1) + "</td>";
+                }
+                tabelHTML += "</tr>";
+            }
+            
+            tabelHTML += "</table>";
+            return tabelHTML;
+        }
+
+        // Contoh penggunaan fungsi untuk membuat tabel 2x2
+        var baris = 2;
+        var kolom = 2;
+        var tabel = buatTabel(baris, kolom);
+
+        document.getElementById("tabel-container").innerHTML = tabel;
+    </script>
+</body>
+</html>

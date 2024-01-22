@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\TUGAS RYN\TUGAS RYN\bin\Debug\TUGAS RYN.exe.config
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\TUGAS RYN\TUGAS RYN\bin\Debug\TUGAS RYN.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\TUGAS RYN\TUGAS RYN\bin\Debug\TUGAS RYN.pdb
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\TUGAS RYN\TUGAS RYN\bin\Debug\TUGAS RYN.xml
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\TUGAS RYN\TUGAS RYN\obj\Debug\TUGAS_RYN.Form1.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\TUGAS RYN\TUGAS RYN\obj\Debug\TUGAS_RYN.Resources.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\TUGAS RYN\TUGAS RYN\obj\Debug\TUGAS RYN.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\TUGAS RYN\TUGAS RYN\obj\Debug\TUGAS RYN.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\TUGAS RYN\TUGAS RYN\obj\Debug\TUGAS RYN.xml
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\TUGAS RYN\TUGAS RYN\obj\Debug\TUGAS RYN.pdb

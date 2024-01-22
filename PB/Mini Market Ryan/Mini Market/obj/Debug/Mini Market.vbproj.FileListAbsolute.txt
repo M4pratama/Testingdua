@@ -1,0 +1,40 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Mini Market\Mini Market\bin\Debug\Mini Market.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Mini Market\Mini Market\bin\Debug\Mini Market.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Mini Market\Mini Market\bin\Debug\Mini Market.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Mini Market\Mini Market\bin\Debug\Mini Market.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Mini Market\Mini Market\obj\Debug\Mini_Market.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Mini Market\Mini Market\obj\Debug\Mini_Market.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Mini Market\Mini Market\obj\Debug\Mini Market.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Mini Market\Mini Market\obj\Debug\Mini Market.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Mini Market\Mini Market\obj\Debug\Mini Market.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Mini Market\Mini Market\obj\Debug\Mini Market.pdb
+C:\Users\Administrator\Downloads\Mini Market\Mini Market\bin\Debug\Mini Market.exe.config
+C:\Users\Administrator\Downloads\Mini Market\Mini Market\obj\Debug\Mini Market.xml
+C:\Users\Administrator\Downloads\Mini Market\Mini Market\obj\Debug\Mini Market.pdb
+C:\Users\Administrator\Downloads\Mini Market\Mini Market\obj\Debug\Mini_Market.Form1.resources
+C:\Users\Administrator\Downloads\Mini Market\Mini Market\obj\Debug\Mini_Market.Resources.resources
+C:\Users\Administrator\Downloads\Mini Market\Mini Market\obj\Debug\Mini Market.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Mini Market\Mini Market\bin\Debug\Mini Market.exe
+C:\Users\Administrator\Downloads\Mini Market\Mini Market\bin\Debug\Mini Market.pdb
+C:\Users\Administrator\Downloads\Mini Market\Mini Market\bin\Debug\Mini Market.xml
+C:\Users\Administrator\Downloads\Mini Market\Mini Market\obj\Debug\Mini Market.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market\Mini Market\bin\Debug\Mini Market.exe.config
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market\Mini Market\obj\Debug\Mini Market.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market\Mini Market\obj\Debug\Mini Market.xml
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market\Mini Market\obj\Debug\Mini Market.pdb
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market\Mini Market\bin\Debug\Mini Market.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market\Mini Market\bin\Debug\Mini Market.pdb
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market\Mini Market\bin\Debug\Mini Market.xml
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market\Mini Market\obj\Debug\Mini_Market.Form1.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market\Mini Market\obj\Debug\Mini_Market.Resources.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market\Mini Market\obj\Debug\Mini Market.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market Ryan\Mini Market\bin\Debug\Mini Market.exe.config
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market Ryan\Mini Market\obj\Debug\Mini Market.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market Ryan\Mini Market\obj\Debug\Mini Market.xml
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market Ryan\Mini Market\obj\Debug\Mini Market.pdb
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market Ryan\Mini Market\bin\Debug\Mini Market.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market Ryan\Mini Market\bin\Debug\Mini Market.pdb
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market Ryan\Mini Market\bin\Debug\Mini Market.xml
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market Ryan\Mini Market\obj\Debug\Mini_Market.Form1.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market Ryan\Mini Market\obj\Debug\Mini_Market.Resources.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\Mini Market Ryan\Mini Market\obj\Debug\Mini Market.vbproj.GenerateResource.Cache

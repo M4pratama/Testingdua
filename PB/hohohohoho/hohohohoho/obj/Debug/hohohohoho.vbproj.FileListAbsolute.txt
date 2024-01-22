@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\hohohohoho\hohohohoho\bin\Debug\hohohohoho.exe.config
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\hohohohoho\hohohohoho\bin\Debug\hohohohoho.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\hohohohoho\hohohohoho\bin\Debug\hohohohoho.pdb
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\hohohohoho\hohohohoho\bin\Debug\hohohohoho.xml
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\hohohohoho\hohohohoho\obj\Debug\hohohohoho.Form1.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\hohohohoho\hohohohoho\obj\Debug\hohohohoho.Resources.resources
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\hohohohoho\hohohohoho\obj\Debug\hohohohoho.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\hohohohoho\hohohohoho\obj\Debug\hohohohoho.exe
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\hohohohoho\hohohohoho\obj\Debug\hohohohoho.xml
+C:\Users\Administrator\Documents\Muhammad Asrian Pratama RPL 4\PB\hohohohoho\hohohohoho\obj\Debug\hohohohoho.pdb
