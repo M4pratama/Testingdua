@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\MAP-RPL4\PB\projectA\projectA\projectA\bin\Debug\projectA.exe.config
+C:\Users\Administrator\Documents\MAP-RPL4\PB\projectA\projectA\projectA\bin\Debug\projectA.exe
+C:\Users\Administrator\Documents\MAP-RPL4\PB\projectA\projectA\projectA\bin\Debug\projectA.pdb
+C:\Users\Administrator\Documents\MAP-RPL4\PB\projectA\projectA\projectA\bin\Debug\projectA.xml
+C:\Users\Administrator\Documents\MAP-RPL4\PB\projectA\projectA\projectA\obj\Debug\projectA.Form1.resources
+C:\Users\Administrator\Documents\MAP-RPL4\PB\projectA\projectA\projectA\obj\Debug\projectA.Resources.resources
+C:\Users\Administrator\Documents\MAP-RPL4\PB\projectA\projectA\projectA\obj\Debug\projectA.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\MAP-RPL4\PB\projectA\projectA\projectA\obj\Debug\projectA.exe
+C:\Users\Administrator\Documents\MAP-RPL4\PB\projectA\projectA\projectA\obj\Debug\projectA.xml
+C:\Users\Administrator\Documents\MAP-RPL4\PB\projectA\projectA\projectA\obj\Debug\projectA.pdb
